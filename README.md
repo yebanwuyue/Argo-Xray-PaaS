@@ -1,4 +1,4 @@
-# V2ray for PaaS
+# Xray + Argo for PaaS
 
 为容器平台而生
 
